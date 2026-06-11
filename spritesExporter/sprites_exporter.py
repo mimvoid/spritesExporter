@@ -8,7 +8,7 @@ from builtins import Scripter
 from .controller import Controller
 
 
-SPRITESHEET_EXPORTER_VERSION = "0.3.1"
+SPRITESHEET_EXPORTER_VERSION = "0.3.2"
 
 
 class SpritesExporter(Extension):
